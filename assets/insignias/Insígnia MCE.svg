@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="33.9557mm" height="33.9557mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 646.33 646.33"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="641" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Adobe Devanagari">
+		<font-face-src>
+			<font-face-name name="AdobeDevanagari-Regular"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="E" horiz-adv-x="529" d="M475.336 150.496c-11.6676,-37.9952 -29.8334,-69.8272 -45.3307,-85.8269 -20.008,-23.5027 -47.0055,-30.8383 -117,-30.8383 -48.5016,0 -80.5011,0 -98.5106,11.6676 -16.156,11.8351 -23.6591,32.8369 -23.6591,76.169l0 171.33 91.6663 0c81.4948,0 85.8269,-3.82966 98.6669,-69.6597l29.6659 0 0 176.332 -29.6659 0c-10.8302,-61.4979 -14.8386,-69.6708 -98.6669,-69.6708l-91.6663 0 0 208.331c0,26.3387 1.49614,28.8397 30.0009,28.8397l79.3287 0c66.165,0 89.6677,-6.34183 101,-26.3387 12.6725,-20.4993 20.4993,-39.5025 28.8397,-79.6637l29.6659 3.99714c-3.33839,50.1652 -6.8331,114.667 -7.83797,135.668l-412.331 0 0 -27.8348c73.333,-6.33067 81.6623,-8.6642 81.6623,-89.5002l0 -366.498c0,-75.834 -8.32924,-82.6671 -93.3299,-88.9978l0 -27.8348 446.496 0c8.3404,28.3373 27.3324,118.664 31.832,147.001l-30.8271 3.32723z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Adobe Devanagari";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil3 {fill:#DFCA7F}
+    .fil1 {fill:url(#id0)}
+    .fil4 {fill:url(#id1)}
+    .fil0 {fill:url(#id2)}
+    .fil5 {fill:url(#id3)}
+    .fil2 {fill:url(#id4)}
+    .fnt0 {font-weight:normal;font-size:170.48px;font-family:'Adobe Devanagari'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="323.16" y1="623.08" x2="323.16" y2="23.27">
+   <stop offset="0" style="stop-opacity:1; stop-color:#805711"/>
+   <stop offset="0.121569" style="stop-opacity:1; stop-color:#947025"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#CCB260"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#C6A864"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#FEF3B3"/>
+   <stop offset="0.690196" style="stop-opacity:1; stop-color:#CCB260"/>
+   <stop offset="0.870588" style="stop-opacity:1; stop-color:#A37B26"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#866400"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="124.78" y1="500.93" x2="521.56" y2="145.42">
+   <stop offset="0" style="stop-opacity:1; stop-color:#805711"/>
+   <stop offset="0.121569" style="stop-opacity:1; stop-color:#947025"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#CCB260"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#C6A864"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#FEF3B3"/>
+   <stop offset="0.690196" style="stop-opacity:1; stop-color:#CCB260"/>
+   <stop offset="0.788235" style="stop-opacity:1; stop-color:#9E8241"/>
+   <stop offset="0.870588" style="stop-opacity:1; stop-color:#A37B26"/>
+   <stop offset="0.909804" style="stop-opacity:1; stop-color:#C09838"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#866400"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="-0" y1="323.18" x2="646.33" y2="323.18">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="323.17" y1="591.34" x2="323.17" y2="55">
+  </linearGradient>
+  <radialGradient id="id4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.5 -0 -0 1.5 -112 -132)" cx="224.01" cy="264.84" r="251.46" fx="224.01" fy="264.84">
+   <stop offset="0" style="stop-opacity:1; stop-color:#0080FF"/>
+   <stop offset="0.341176" style="stop-opacity:1; stop-color:#0A67C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#134F8A"/>
+  </radialGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2146373640480">
+   <circle class="fil0" cx="323.17" cy="323.17" r="323.17"/>
+   <circle class="fil1" cx="323.17" cy="323.17" r="299.91"/>
+   <circle class="fil2" cx="323.17" cy="323.17" r="291.64"/>
+   <path class="fil3" d="M493.19 209.62c-7.79,15.64 -15.34,23.24 -30.54,23.24 -22.72,0 -39.83,-18.95 -39.83,-47.1 0,-22.67 13.52,-43.68 38.96,-43.68 17.1,0 25.22,7.06 28.97,22.37l4.83 -1.36c-0.87,-7.93 -1.9,-13.95 -2.93,-22.7 -4.29,-0.87 -14.31,-4.12 -26.5,-4.12 -33.07,0 -57.5,20.96 -57.5,52.75 0,23.54 16.31,49.66 52.8,49.66 11.38,0 23.64,-3.1 28.1,-4.13 2.44,-4.78 6.43,-15.96 8.42,-23.32l-4.78 -1.6z"/>
+   <path class="fil3" d="M248.13 238.66l0 -4.88c-13.89,-1.11 -14.54,-1.93 -14.97,-19.4l-1.42 -55.05c-0.65,-17.13 0.6,-16.96 14.66,-18.29l0 -4.77 -26.56 0 -37.32 79.85 -36.16 -79.85 -25.17 0 0 4.77c14.57,1.33 14.97,1.65 13.66,21.73l-2.16 32.78c-1.08,16.65 -2.19,23.32 -3.01,28.57 -1.16,7.16 -4.32,8.55 -13.41,9.49l0 5.06 37.15 0 0 -5.06c-10.34,-0.94 -14.32,-2.02 -14.8,-9.49 -0.17,-5.85 0,-12.16 0.74,-25.82l2.16 -45.53 0.31 0 35.42 84.65 3.24 0 39.17 -86.98 0.34 0 0.74 63.94c0,17.47 -0.34,18.29 -13.49,19.4l0 4.88 40.87 0z"/>
+   <polygon class="fil4" points="323.17,557.91 245.22,591.34 300.99,348.96 58.25,405.28 98.22,320.61 58.25,242.12 300.99,298.08 245.22,54.99 323.17,93.15 401.11,54.99 345.35,298.08 588.09,242.12 548.12,320.61 588.09,405.28 345.35,348.96 401.11,591.34 "/>
+   <path class="fil5" d="M323.17 557.91l-77.95 33.43 55.77 -242.38 -242.74 56.32 39.97 -84.67 -39.97 -78.49 242.74 55.96 -55.77 -243.09 77.95 38.15 77.94 -38.15 -55.77 243.09 242.74 -55.96 -39.97 78.49 39.97 84.67 -242.74 -56.32 55.77 242.38 -77.94 -33.43zm-70.63 24.67l70.63 -30.29 70.63 30.29 -55.34 -240.52 240.4 55.78 -36.5 -77.31 36.09 -70.87 -239.98 55.33 55.19 -240.59 -70.49 34.51 -70.49 -34.51 55.19 240.59 -239.98 -55.33 36.09 70.87 -36.5 77.31 240.4 -55.78 -55.34 240.52z"/>
+   <g transform="matrix(0.999998 0 0 1 -1561.1 -593.066)">
+    <text x="1697.79" y="1114.82"  class="fil3 fnt0">E</text>
+   </g>
+  </g>
+ </g>
+</svg>

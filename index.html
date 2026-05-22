@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Gabinete Estadual da Ordem DeMolay do Ceará — Liderar por Princípios</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&family=Manrope:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body style="font-family: Comfortaa">
+
+<!-- Loading screen (appears before React renders) -->
+<div id="site-loader" class="site-loader" aria-hidden="true">
+  <div class="loader-content">
+    <img class="loader-logo" src="assets/emblema-ge-ce.png" alt="" />
+    <span class="loader-name">Ordem DeMolay · Ceará</span>
+    <div class="loader-bar-wrap">
+      <div class="loader-bar-fill"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Custom cursor dot -->
+<div id="cursor" class="custom-cursor" aria-hidden="true"></div>
+
+<div id="app"></div>
+
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+
+<script>
+  /* --- Loading screen dismiss --- */
+  setTimeout(function() {
+    var loader = document.getElementById('site-loader');
+    if (loader) loader.classList.add('done');
+  }, 1550);
+
+  /* --- Custom cursor with smooth lag --- */
+  (function() {
+    var cur = document.getElementById('cursor');
+    if (!cur || window.matchMedia('(hover: none)').matches) return;
+    var cx = -20, cy = -20, tx = -20, ty = -20;
+    document.addEventListener('mousemove', function(e) {
+      tx = e.clientX; ty = e.clientY;
+      cur.style.opacity = '1';
+    });
+    document.addEventListener('mouseleave', function() { cur.style.opacity = '0'; });
+    function tick() {
+      cx += (tx - cx) * 0.14;
+      cy += (ty - cy) * 0.14;
+      cur.style.transform = 'translate(' + (cx - 5) + 'px,' + (cy - 5) + 'px)';
+      requestAnimationFrame(tick);
+    }
+    tick();
+  })();
+</script>
+
+<script type="text/babel" src="components/data.jsx"></script>
+<script type="text/babel" src="components/Reveal.jsx"></script>
+<script type="text/babel" src="components/Header.jsx"></script>
+<script type="text/babel" src="components/Hero.jsx"></script>
+<script type="text/babel" src="components/GestaoStrip.jsx"></script>
+<script type="text/babel" src="components/Editais.jsx"></script>
+<script type="text/babel" src="components/Galeria.jsx"></script>
+<script type="text/babel" src="components/Documentos.jsx"></script>
+<script type="text/babel" src="components/Eventos.jsx"></script>
+<script type="text/babel" src="components/Contato.jsx"></script>
+<script type="text/babel" src="components/Footer.jsx"></script>
+<script type="text/babel" src="app.jsx"></script>
+</body>
+</html>

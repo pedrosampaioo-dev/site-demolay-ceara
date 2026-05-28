@@ -24,7 +24,7 @@ const EDITAIS = [
   {
     ref: "EDT-002/2025",
     title: "Conselheiro de Ouro",
-    desc: "Premiação individual ao membro ativo que demonstrou liderança, dedicação e contribuição exemplar à Ordem no Estado do Ceará.",
+    desc: "Projeto voltado ao desenvolvimento do Primeiro Conselho durante sua gestão",
     status: "aberto",
     prazo: "20 Jun 2026",
     inscricoes: "Primeiros Conselheiros",
@@ -35,7 +35,7 @@ const EDITAIS = [
   {
     ref: "EDT-008/2025-2026",
     title: "Campanha Cearense de Incentivo à Ritualística",
-    desc: "Edital de projetos sociais conduzidos por capítulos, com apoio financeiro do Gabinete para iniciativas de impacto regional.",
+    desc: "Projeto voltado para incentivar a ritualística dentro dos Capítulos através de dinâmicas que sejam realizadas pelo Segundo Conselheiro",
     status: "aberto",
     prazo: "20 Jun 2026",
     inscricoes: "Segundos Conselheiros",
@@ -46,7 +46,7 @@ const EDITAIS = [
   {
     ref: "EDT-006/2025-2026",
     title: "ADM de Ouro",
-    desc: "Concurso de criação visual para o estandarte oficial dos capítulos cearenses, valorizando identidade local e fraternal.",
+    desc: "Projeto voltado à administração capitular, mais especificamente os Tesoureiros e Hospitaleiros.",
     status: "aberto",
     prazo: "20 Jun 2026",
     inscricoes: "Tesoureiros e Hospitaleiros",
@@ -57,7 +57,7 @@ const EDITAIS = [
   {
     ref: "EDT-012/2025-2026",
     title: "Certificado de Referência Estadual para Castelos",
-    desc: "Concurso oratório estadual com etapas regionais, promovendo a expressão oral e o domínio da palavra entre os jovens.",
+    desc: "Projeto que busca incentivar os Castelos do nosso Estado a realizarem atividades dinâmicas, criativas e de impacto para a comunidade.",
     status: "aberto",
     prazo: "15 Nov 2026",
     inscricoes: "Castelos",
@@ -68,7 +68,7 @@ const EDITAIS = [
   {
     ref: "EDT-002/2025-2026",
     title: "Certificado de Referência Estadual para Regiões",
-    desc: "Apoio a visitações e intercâmbios entre capítulos, fortalecendo laços fraternais entre as regiões do Ceará.",
+    desc: "Projeto voltado para que as regiões do nosso Estado possam ser reconhecidas por sua excelência em organização de eventos, articulação regional e desenvolvimento de projetos.",
     status: "aberto",
     prazo: "15 Nov 2026",
     inscricoes: "Mestres Conselheiros Regionais",
@@ -79,7 +79,7 @@ const EDITAIS = [
   {
     ref: "EDT-007/2025",
     title: "Desafio Filantrópico Estadual",
-    desc: "Apoio a visitações e intercâmbios entre capítulos, fortalecendo laços fraternais entre as regiões do Ceará.",
+    desc: "Projeto voltado aos Capítulo desenvolverem atividades sociais e filantropias durante o ano de 2026.",
     status: "aberto",
     prazo: "15 Nov 2026",
     inscricoes: "Capítulos",
@@ -90,7 +90,7 @@ const EDITAIS = [
   {
     ref: "EDT-008/2025",
     title: "Meu Lugar",
-    desc: "Apoio a visitações e intercâmbios entre capítulos, fortalecendo laços fraternais entre as regiões do Ceará.",
+    desc: "Projeto voltado para que Castelos realizem atividades que remetam à sua cidade e estado.",
     status: "aberto",
     prazo: "15 Jun 2026",
     inscricoes: "Castelos",
@@ -100,8 +100,8 @@ const EDITAIS = [
   },
   {
     ref: "EDT-009/2025",
-    title: "Rumo ao Hexa",
-    desc: "Apoio a visitações e intercâmbios entre capítulos, fortalecendo laços fraternais entre as regiões do Ceará.",
+    title: "Em Busca do Hexa",
+    desc: "Projeto voltado incentivar capítulos e castelos a desenvolverem sua virtude do Patriotismo, acompanhando a seleção durante a Copa do Mundo FIFA 2026.",
     status: "breve",
     prazo: "Contínuo",
     inscricoes: "Capítulos",
